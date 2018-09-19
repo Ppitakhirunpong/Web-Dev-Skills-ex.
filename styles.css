@@ -1,0 +1,65 @@
+html {
+    background: url("images/background.jpg") no-repeat fixed;
+    background-size: cover;
+}
+
+div {
+    border-radius: 25px;
+    width: 600px;
+    margin: 40px auto;
+    padding: 30px 75px;
+    background-color: whitesmoke;
+}
+
+.html{
+    border: 2px solid #E44D26;
+    box-shadow: 2px 2px #F16529;
+}
+
+.css{
+    border: 2px solid #264DE4;
+    box-shadow: 2px 2px #2965F1;
+}
+
+.js{
+    border: 2px solid #E7A42B;
+    box-shadow: 2px 2px #F2BF22;
+}
+
+h1{
+    font-family: "Lucida Console", Monaco, monospace;
+    color: whitesmoke;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 45px;
+    text-shadow: 2px 2px black; 
+}
+
+h2{
+    font-variant: small-caps;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+P, ul {
+    font-family: "Lucida Console", Monaco, monospace;
+    color: black
+}
+
+span {
+    font-family: "Lucida Console", Monaco, monospace
+}
+
+a{
+    color: rgb(216, 196, 19);
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline;     
+}
+
+img {
+    width: 30px;
+    hight: 30px;
+    vertical-align: middle;
+}
